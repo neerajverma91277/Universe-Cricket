@@ -1,4 +1,4 @@
-# Dual Duel
+# Universe Cricket
 
 ### Setup for development
 
