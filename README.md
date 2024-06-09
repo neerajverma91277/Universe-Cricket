@@ -10,8 +10,8 @@
 #### 1. Clone this repo
    
 ```
-$ git clone https://github.com/mdgspace/dual-duel.git
-$ cd dual-duel
+$ git clone https://github.com/neerajverma91277/Universe-Cricket.git
+$ cd Universe-Cricket
 ```
 
 #### 2. Create a virtual environment
